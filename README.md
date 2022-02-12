@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @USard0r{real name: Sardor}
 - 👀 I’m interested in AI and OpenCV
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on frankly devlopers
+- 💞️ I’m looking to collaborate on generous devlopers
 - 📫 How to reach me Uchqunov8@gmail.com
 
 <!---
